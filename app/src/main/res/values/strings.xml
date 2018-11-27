@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyNetwork</string>
+    <string name="instruction">Enter a Book Name or part of a Book Name</string>
+</resources>
